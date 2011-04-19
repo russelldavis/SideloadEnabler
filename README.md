@@ -1,8 +1,10 @@
-## SideloadEnabler ##
+SideloadEnabler
+======
+
 Enables sideloading of apps on rooted android devices. Many android phones don't need this, but some evil carriers have locked down this setting on their phones.
 
 ### Requirements ###
-Your phone must be rooted (i.e., you have a working Superuser app)
+Your phone must be rooted (i.e., you have a working Superuser app).
 
 ### Installation ###
 Copy SideloadEnabler.apk to your phone using `adb install` or [Sideload Wonder Machine](http://forum.androidcentral.com/android-sideload-wonder-machine/) (it should be the last app you have to manually install).
